@@ -5,3 +5,4 @@ Specify that json files are not template files por else they will run in on CF.
 Justifications for "iam-password-policy" from story 2 onwards.
 In which order should I run the templates in Story-5.
 For Story 7 specify which template should I run (jenkins profile or jenkins) ?
+Also in jenkins-profile template what should be the arn of ? ( missing description)
