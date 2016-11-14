@@ -1,0 +1,6 @@
+also why do I have story1 files in story2 ?
+incomplete information for story 2 in "username" (improve description)
+Ask them not to delete the previous stacks beacause we need them.
+Specify that json files are not template files por else they will run in on CF.
+Justifications for "iam-password-policy" from story 2 onwards.
+In which order should I run the templates in Story-5
